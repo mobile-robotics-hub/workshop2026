@@ -146,7 +146,7 @@ Czech Technical University in Prague, Czech Republic
 
 ## Contact
 
-If you have any questions, please contact us at [lowi@gmail.com](mailto:lowi@gmail.com).
+If you have any questions, please contact us at [lowiworkshop@gmail.com](mailto:lowiworkshop@gmail.com).
 
 ---
 
