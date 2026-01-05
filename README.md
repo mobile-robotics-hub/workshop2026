@@ -1,4 +1,3 @@
-### Perception, Learning, and Navigation
 <p align="center"> <img src="images/logo_LoWi_1.png" width="360"></p>
 
 This workshop will discuss core challenges and new solutions in **perception, learning and navigation** for autonomous robots operating over long terms in the wild, complex and unstructured environments.
