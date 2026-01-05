@@ -1,3 +1,6 @@
+### Perception, Learning, and Navigation
+<p align="center"> <img src="images/logo_LoWi_1.png" width="360"></p>
+
 This workshop will discuss core challenges and new solutions in **perception, learning and navigation** for autonomous robots operating over long terms in the wild, complex and unstructured environments.
 With robotics applications in the wild broadening from environmental monitoring and agriculture to autonomous driving and disaster relief, the requirement for long-term robust, adaptive, and intelligent systems becomes essential.
 This workshop will bring together researchers and practitioners to share new technologies in sensor processing, scene understanding, mapping, localization, and machine learning to address the unique demands of long-term operations in the wild, including varying terrain, adverse weather, dynamic lighting conditions, and seasonal changes.
