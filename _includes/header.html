@@ -5,7 +5,7 @@
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="height: 32px; width: auto; vertical-align: middle; margin-right: 10px;">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="height: 64px; width: auto; vertical-align: middle; margin-right: 10px;">
       {{ site.title | escape }}
     </a>
 
