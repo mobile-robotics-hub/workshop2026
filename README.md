@@ -66,22 +66,22 @@ The workshop will cover a range of topics, including but not limited to:
 
 ## Speakers
 
-**Title: TBD**\
+**Title: Multi-robot Mapping in Maritime Environments**\
 ![Teresa Vidal Calleja](/images/Teresa_Vidal_Calleja.jpg)\
 [Teresa Vidal Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja)\
 University of Technology Sydney, Australia
 
-**Title: TBD**\
+**Title: Tough Physical AI for Task Automation in Harsh Environments**\
 ![Kazunori Ohno](/images/Kazunori_Ohno.jpg)\
 [Kazunori Ohno](https://www.r-info.tohoku.ac.jp/en/1dbca76142c072cb4a4403b1c317eb26.html)\
 Tohoku University, Japan
 
-**Title: TBD**\
+**Title: Learning Robust and Generalizable Features for Long-term Localization**\
 ![Xieyuanli Chen](/images/Xieyuanli_Chen.jpg)\
 [Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
 National University of Defense Technology, China
 
-**Title: TBD**\
+**Title: Seven Years in the Wild: Lessons from Agricultural Robots at Scale**\
 ![Jaime Pulido Fentanes](/images/Jaime_Pulido_Fentanes.jpg)\
 [Jaime Pulido Fentanes](https://scholar.google.es/citations?user=rTntw-wAAAAJ)\
 Saga Robotics, Norway
@@ -91,12 +91,12 @@ Saga Robotics, Norway
 [Timothy D Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
 University of Toronto, Canada
 
-**Title: TBD**\
+**Title: Learning Robust Robot Perception in Unknown Environments**\
 ![Marija Popović](/images/Marija_Popovic.jpg)\
 [Marija Popović](https://research.tudelft.nl/en/persons/m-popovic)\
 Delft University of Technology, Netherlands
 
-**Title: TBD**\
+**Title: Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features**\
 ![Ayoung Kim](/images/Ayoung_Kim.jpg)\
 [Ayoung Kim](https://rpm.snu.ac.kr/)\
 Seoul National University, South Korea
