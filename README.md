@@ -161,7 +161,3 @@ If you have any questions, please contact us at [lowiworkshop@gmail.com](mailto:
 <a href="https://www.durham.ac.uk/"><img src="images/logo_durham.png" height="38"></a>&nbsp;&nbsp;
 <a href="https://www.cvut.cz/en"><img src="images/logo_cvut.png" height="38"></a>&nbsp;&nbsp;
 <a href="https://chronorobotics.fel.cvut.cz/"><img src="images/logo_tomslab.png" height="38"></a>
-
----
-
-Total Page Views: ![Views](https://librecounter.org/counter.svg?referrer=mobile-robotics-hub.github.io/workshop2026)
