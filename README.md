@@ -41,9 +41,9 @@ The workshop will cover a range of topics, including but not limited to:
 
 ## Important dates
 
-* Paper submission deadline: March 20, 2026, 11:59 p.m. (Anywhere on Earth)
-* Paper notification of acceptance:  April 22, 2026
-* Workshop date: June 1, 2026
+* Paper submission deadline: **March 20, 2026, 11:59 p.m. (Anywhere on Earth)**
+* Paper notification of acceptance:  **April 22, 2026**
+* Workshop date: **June 1, 2026**
 
 ## Schedule
 
