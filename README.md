@@ -25,7 +25,7 @@ The workshop will cover a range of topics, including but not limited to:
 * Novel sensors, long-term or multi-season datasets, and benchmarks in LoWi.
 * Reinforcement learning for navigation and interaction in dynamic, unpredictable scenarios.
 * Data generation, augmentation, and active learning for the wild.
-* Applications with an clear focus on long-term perception, learning, and navigation challenges.
+* Applications with a clear focus on long-term perception, learning, and navigation challenges.
 
 ## Submission guidelines
 
