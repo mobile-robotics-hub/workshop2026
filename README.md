@@ -33,8 +33,9 @@ The workshop will cover a range of topics, including but not limited to:
 * Submissions must present new, high-quality research on the workshop's themes.
 * Submitted papers must not be under review or have been published in another archival venue.
 * A double-blind peer-review process will be implemented. Papers will be evaluated based on their novelty, technical soundness, clarity, and relevance to the workshop.
-* A selected number of high-quality papers will be invited to submit an extended version of their work to a special issue in a major journal. <!-- * The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr). -->
+* Accepted papers will be hosted on the workshop website but will not appear in the official IEEE Xplore proceedings, allowing for future submission to journals or major conferences.
 * All accepted papers will be invited for either a spotlight oral or a poster presentation at the workshop.
+* A selected number of high-quality papers will be invited to submit an extended version of their work to a special issue in a major journal. <!-- * The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr). -->
 * Thanks to our sponsor, a $300 Best Presentation Award, along with a certificate, will be given to a standout presentation at the workshop. <!-- The award will be titled "ICRA 2026 Workshop on Long-Term Autonomy in the Wild: Best Presentation Award." -->
 * Details on the submission portal will be announced on the workshop website.
 
