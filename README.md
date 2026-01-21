@@ -37,7 +37,7 @@ The workshop will cover a range of topics, including but not limited to:
 * All accepted papers will be invited for either a spotlight oral or a poster presentation at the workshop.
 * A selected number of high-quality papers will be invited to submit an extended version of their work to a special issue in a major journal. <!-- * The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr). -->
 * Thanks to our sponsor, a $300 Best Presentation Award, along with a certificate, will be given to a standout presentation at the workshop. <!-- The award will be titled "ICRA 2026 Workshop on Long-Term Autonomy in the Wild: Best Presentation Award." -->
-* Details on the submission portal will be announced on the workshop website.
+* Papers should be submitted through the CMT portal: [**https://cmt3.research.microsoft.com/LoWi2026**](https://cmt3.research.microsoft.com/LoWi2026)
 
 ## Important dates
 
