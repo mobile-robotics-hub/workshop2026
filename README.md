@@ -153,10 +153,10 @@ Czech Technical University in Prague, Czech Republic
 
 ## Sponsors
 
-<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="64"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="64"></a>
+<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="57"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="57"></a>
 
-<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="64"></a>
+<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="46"></a>
 
 ## Contact
 
