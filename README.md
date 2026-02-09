@@ -36,8 +36,15 @@ The workshop will cover a range of topics, including but not limited to:
 * Accepted papers will be hosted on the workshop website but will not appear in the official IEEE Xplore proceedings, allowing for future submission to journals or major conferences.
 * All accepted papers will be invited for either a spotlight oral or a poster presentation at the workshop.
 * A selected number of high-quality papers will be invited to submit an extended version of their work to a special issue in a major journal. <!-- * The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr). -->
-* Thanks to our sponsor, a $300 Best Presentation Award, along with a certificate, will be given to a standout presentation at the workshop. <!-- The award will be titled "ICRA 2026 Workshop on Long-Term Autonomy in the Wild: Best Presentation Award." -->
 * Papers should be submitted through the CMT portal: [**https://cmt3.research.microsoft.com/LoWi2026**](https://cmt3.research.microsoft.com/LoWi2026)
+
+## Awards and Travel Grants
+
+Thanks to the generous support of our sponsors, we are pleased to announce the following awards and opportunities:
+* We will present a **Best Student Presentation Award** and a **Best Presentation Award** to recognize outstanding contributions to the workshop. Winners will receive a certificate and a cash prize. The selection will be based on the quality of the paper and the presentation delivered during the workshop.
+* We are committed to fostering diversity and inclusion within the robotics community. A limited number of **Travel Grants** are available to support student authors, with priority given to applicants from underrepresented regions or groups.
+  - **Eligibility:** Student authors of accepted papers.
+  - **Application:** Details on how to apply will be sent to authors upon paper acceptance.
 
 ## Important dates
 
@@ -146,7 +153,9 @@ Czech Technical University in Prague, Czech Republic
 
 ## Sponsors
 
-<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="64"></a>
+<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="64"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="64"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="64"></a>
 
 ## Contact
 
@@ -154,13 +163,13 @@ If you have any questions, please contact us at [lowiworkshop@gmail.com](mailto:
 
 ---
 
-<a href="https://www.ensta.fr/"><img src="images/logo_ensta.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.hi-paris.fr/"><img src="images/logo_hiparis.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.uni-wuerzburg.de/"><img src="images/logo_wuerzburg.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://en.nwpu.edu.cn/"><img src="images/logo_nwpu.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.cea.fr/"><img src="images/logo_cea.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.durham.ac.uk/"><img src="images/logo_durham.png" height="38"></a>&nbsp;&nbsp;
-<a href="https://www.cvut.cz/en"><img src="images/logo_cvut.png" height="38"></a>&nbsp;&nbsp;
+<a href="https://www.ensta.fr/"><img src="images/logo_ensta.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hi-paris.fr/"><img src="images/logo_hiparis.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.uni-wuerzburg.de/"><img src="images/logo_wuerzburg.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://en.nwpu.edu.cn/"><img src="images/logo_nwpu.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.cea.fr/"><img src="images/logo_cea.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.durham.ac.uk/"><img src="images/logo_durham.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.cvut.cz/en"><img src="images/logo_cvut.png" height="38"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://chronorobotics.fel.cvut.cz/"><img src="images/logo_tomslab.png" height="38"></a>
 
 ---
