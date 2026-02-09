@@ -11,7 +11,7 @@ This workshop will feature presentations, papers, and interactive discussion by 
 
 VIECON (formerly Messe Wien), Vienna, Austria.
 
-## Call for papers
+## Call for Papers
 
 The workshop will cover a range of topics, including but not limited to:
 * Long-term autonomy, persistent mapping, and online/continual/lifelong learning in ever-changing environments.
@@ -27,7 +27,7 @@ The workshop will cover a range of topics, including but not limited to:
 * Data generation, augmentation, and active learning for the wild.
 * Applications with a clear focus on long-term perception, learning, and navigation challenges.
 
-## Submission guidelines
+## Submission Guidelines
 
 * We invite submissions of full papers of 4 to 8 pages, including references, formatted using the standard [IEEE RAS conference template](https://ras.papercept.net/conferences/support/tex.php).
 * Submissions must present new, high-quality research on the workshop's themes.
@@ -46,7 +46,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
   - **Eligibility:** Student authors of accepted papers.
   - **Application:** Details on how to apply will be sent to authors upon paper acceptance.
 
-## Important dates
+## Important Dates
 
 * Paper submission deadline: **March 20, 2026, 11:59 p.m. (Anywhere on Earth)**
 * Paper notification of acceptance:  **April 22, 2026**
