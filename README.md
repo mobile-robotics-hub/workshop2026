@@ -129,7 +129,8 @@ AMIAD, France
 
 ![Andreas Nüchter](/images/Andreas_Nuchter.jpg)\
 [Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/)\
-University of Würzburg, Germany
+University of Würzburg, Germany\
+Hi! PARIS International Visiting Chair, France
 
 ![Tao Yang](/images/Tao_Yang.jpg)\
 [Tao Yang](https://teacher.nwpu.edu.cn/yangtao2020.html)\
