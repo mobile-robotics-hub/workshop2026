@@ -48,7 +48,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 ## Important Dates
 
-* Paper submission deadline: **March 20, 2026, 11:59 p.m. (Anywhere on Earth)**
+* Paper submission deadline: ~~March 20, 2026~~ **Extended: March 27, 2026 11:59 p.m. (Anywhere on Earth)**
 * Paper notification of acceptance:  **April 22, 2026**
 * Workshop date: **June 1, 2026**
 
