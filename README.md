@@ -29,13 +29,15 @@ The workshop will cover a range of topics, including but not limited to:
 
 ## Submission Guidelines
 
-* We invite submissions of full papers of 4 to 8 pages, including references, formatted using the standard [IEEE RAS conference template](https://ras.papercept.net/conferences/support/tex.php).
-* Submissions must present new, high-quality research on the workshop's themes.
+* We invite submissions in two tracks:
+  - Full papers (4 to 8 pages): Eligible for Lightning Talks, Awards, and the Journal Special Issue.
+  - Extended abstracts (up to 2 pages): Accepted abstracts will be presented in the Poster Session.
+* All submissions must use the standard [IEEE RAS conference template](https://ras.papercept.net/conferences/support/tex.php) and present research relevant to the workshop's themes.
 * Submitted papers must not be under review or have been published in another archival venue.
 * A double-blind peer-review process will be implemented. Papers will be evaluated based on their novelty, technical soundness, clarity, and relevance to the workshop.
 * Accepted papers will be hosted on the workshop website but will not appear in the official IEEE Xplore proceedings, allowing for future submission to journals or major conferences.
 * All accepted papers will be invited for either a spotlight oral or a poster presentation at the workshop.
-* A selected number of high-quality papers will be invited to submit an extended version of their work to a special issue in a major journal. <!-- * The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr). -->
+* A selected number of high-quality **full papers** will be invited to submit an extended version of their work to a special issue in a major journal. <!-- * The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr). -->
 * Papers should be submitted through the CMT portal: [**https://cmt3.research.microsoft.com/LoWi2026**](https://cmt3.research.microsoft.com/LoWi2026)
 
 ## Awards and Travel Grants
@@ -48,8 +50,8 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 ## Important Dates
 
-* Paper submission deadline: ~~March 20, 2026~~ **Extended: March 27, 2026 11:59 p.m. (Anywhere on Earth)**
-* Paper notification of acceptance:  **April 22, 2026**
+* Paper submission deadline: ~~March 20, 2026~~ **Extended: April 17, 2026 11:59 p.m. (Anywhere on Earth)**
+* Paper notification of acceptance:  ~~April 22, 2026~~ **April 24, 2026**
 * Workshop date: **June 1, 2026**
 
 ## Schedule
