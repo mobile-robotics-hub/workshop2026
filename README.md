@@ -58,24 +58,24 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 | **Time** | **Speaker** | **Topic / Title** |
 | -------- | ----------- | ----------------- |
-| 08:50 - 09:00 | Organizers     | Welcome and Workshop Overview                |
-| 09:00 - 09:30 | Speaker 1      | Invited Talk #1 + Q&A                        |
-| 09:30 - 10:00 | Speaker 2      | Invited Talk #2 + Q&A                        |
-| 10:00 - 10:20 | 5 papers       | Lightning Talks (3 min/pers)                 |
-| 10:20 - 10:25 | ATEC (Sponsor) | Competition Promotion                        |
-| 10:25 - 11:00 | -              | Coffee Break & Poster Session Setup          |
-| 11:00 - 11:30 | Speaker 3      | Invited Talk #3 + Q&A                        |
-| 11:30 - 12:00 | Speaker 4      | Invited Talk #4 + Q&A                        |
-| 12:00 - 12:10 | TBD            | Startup Presentation                         |
-| 12:10 - 14:00 | -              | Lunch Break & Continued Poster Session       |
-| 14:00 - 14:30 | Speaker 5      | Invited Talk #5 + Q&A                        |
-| 14:30 - 15:00 | Speaker 6      | Invited Talk #6 + Q&A                        |
-| 15:00 - 15:20 | 5 papers       | Lightning Talks (3 min/pers)                 |
-| 15:20 - 15:30 | TBD            | Startup Presentation                         |
-| 15:30 - 16:00 | -              | Coffee Break & Continued Poster Session      |
-| 16:00 - 16:30 | Speaker 7      | Invited Talk #7 + Q&A                        |
-| 16:30 - 17:00 | All speakers   | Interactive Panel Discussion                 |
-| 17:00 - 17:30 | Organizers     | Best Presentation Awards and Closing Remarks |
+| 08:50 - 09:00 | Organizers            | Welcome and Workshop Overview                |
+| 09:00 - 09:30 | Timothy Barfoot       | Invited Talk #1 + Q&A                        |
+| 09:30 - 10:00 | Xieyuanli Chen        | Invited Talk #2 + Q&A                        |
+| 10:00 - 10:20 | 5 papers              | Lightning Talks (3 min/pers)                 |
+| 10:20 - 10:25 | ATEC (sponsor)        | Competition Promotion                        |
+| 10:25 - 11:00 | -                     | Coffee Break & Poster Session Setup          |
+| 11:00 - 11:30 | Ayoung Kim            | Invited Talk #3 + Q&A                        |
+| 11:30 - 12:00 | Marija Popović        | Invited Talk #4 + Q&A                        |
+| 12:00 - 12:10 | TBD                   | Startup Presentation                         |
+| 12:10 - 14:00 | -                     | Lunch Break & Continued Poster Session       |
+| 14:00 - 14:30 | Teresa Vidal Calleja  | Invited Talk #5 + Q&A                        |
+| 14:30 - 15:00 | Kazunori Ohno         | Invited Talk #6 + Q&A                        |
+| 15:00 - 15:20 | 5 papers              | Lightning Talks (3 min/pers)                 |
+| 15:20 - 15:30 | TBD                   | Startup Presentation                         |
+| 15:30 - 16:00 | -                     | Coffee Break & Continued Poster Session      |
+| 16:00 - 16:30 | Jaime Pulido Fentanes | Invited Talk #7 + Q&A                        |
+| 16:30 - 17:00 | All speakers          | Interactive Panel Discussion                 |
+| 17:00 - 17:30 | Organizers            | Best Presentation Awards and Closing Remarks |
 
 ## Speakers
 
@@ -99,9 +99,9 @@ National University of Defense Technology, China
 [Jaime Pulido Fentanes](https://scholar.google.es/citations?user=rTntw-wAAAAJ)\
 Saga Robotics, Norway
 
-**Title: TBD**\
-![Timothy D Barfoot](/images/Timothy_D_Barfoot.jpg)\
-[Timothy D Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
+**Title: Everywhere and Everywhen: Progress on Long-Term Localization with Radar**\
+![Timothy Barfoot](/images/Timothy_D_Barfoot.jpg)\
+[Timothy Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
 University of Toronto, Canada
 
 **Title: Learning Robust Robot Perception in Unknown Environments**\
