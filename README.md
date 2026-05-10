@@ -58,27 +58,27 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 | **Time** | **Speaker** | **Topic / Title** |
 | -------- | ----------- | ----------------- |
-| 08:50 - 09:00 | Organizers              | Welcome and Workshop Overview                |
-| 09:00 - 09:30 | Timothy Barfoot         | Invited Talk #1 + Q&A                        |
-| 09:30 - 10:00 | Xieyuanli Chen          | Invited Talk #2 + Q&A                        |
-| 10:00 - 10:20 | [5 papers](#foundation) | Lightning Talks (3 min/pers)                 |
-| 10:20 - 10:30 | ATEC (sponsor)          | Competition Promotion                        |
-| 10:30 - 11:00 | -                       | Coffee Break & Poster Session A (Setup)      |
-| 11:00 - 11:30 | Ayoung Kim              | Invited Talk #3 + Q&A                        |
-| 11:30 - 12:00 | Marija Popović          | Invited Talk #4 + Q&A                        |
-| 12:00 - 12:10 | TBD                     | Startup Presentation                         |
-| 12:10 - 14:00 | -                       | Lunch Break & Poster Session A (Continued)   |
-| 14:00 - 14:30 | Teresa Vidal Calleja    | Invited Talk #5 + Q&A                        |
-| 14:30 - 15:00 | Kazunori Ohno           | Invited Talk #6 + Q&A                        |
-| 15:00 - 15:20 | [5 papers](#deployment) | Lightning Talks (3 min/pers)                 |
-| 15:20 - 15:30 | TBD                     | Startup Presentation                         |
-| 15:30 - 16:30 | -                       | Coffee Break & Poster Session B              |
-| 16:30 - 17:00 | All speakers            | Interactive Panel Discussion                 |
-| 17:00 - 17:30 | Organizers              | Best Presentation Awards and Closing Remarks |
+| 08:50 - 09:00 | Organizers               | Welcome and Workshop Overview                |
+| 09:00 - 09:30 | Timothy Barfoot          | Everywhere and Everywhen: Progress on Long-Term Localization with Radar |
+| 09:30 - 10:00 | Xieyuanli Chen           | Learning Robust and Generalizable Features for Long-term Localization |
+| 10:00 - 10:20 | [5 papers](#foundation)  | Lightning Talks (3 min/pers)                 |
+| 10:20 - 10:30 | ATEC (sponsor)           | Competition Promotion                        |
+| 10:30 - 11:00 | [12 papers](#foundation) | Coffee Break & Poster Session A (Setup)      |
+| 11:00 - 11:30 | Ayoung Kim               | Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features |
+| 11:30 - 12:00 | Marija Popović           | Learning Robust Robot Perception in Unknown Environments |
+| 12:00 - 12:10 | TBD                      | Startup Presentation                         |
+| 12:10 - 14:00 | -                        | Lunch Break & Poster Session A (Continued)   |
+| 14:00 - 14:30 | Teresa Vidal Calleja     | Multi-robot Mapping in Maritime Environments |
+| 14:30 - 15:00 | Kazunori Ohno            | Tough Physical AI for Task Automation in Harsh Environments |
+| 15:00 - 15:20 | [5 papers](#deployment)  | Lightning Talks (3 min/pers)                 |
+| 15:20 - 15:30 | TBD                      | Startup Presentation                         |
+| 15:30 - 16:30 | [12 papers](#deployment) | Coffee Break & Poster Session B              |
+| 16:30 - 17:00 | All speakers             | Interactive Panel Discussion                 |
+| 17:00 - 17:30 | Organizers               | Best Presentation Awards and Closing Remarks |
 
 ## Lightning Talks and Poster Sessions Details
 
-> **Note to Presenters:** All Lightning Talk papers are also required to present a physical poster during their assigned slot.
+> **Note to presenters:** All Lightning Talk papers are also required to present a physical poster during their assigned slot.
 
 <details>
 <summary id="foundation"><b>📂 Click to expand Session A (10:30-11:00 & 12:10-14:00)</b></summary>
@@ -242,32 +242,26 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 ## Speakers
 
-**Title: Everywhere and Everywhen: Progress on Long-Term Localization with Radar**\
 ![Timothy Barfoot](/images/Timothy_D_Barfoot.jpg)\
 [Timothy Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
 University of Toronto, Canada
 
-**Title: Learning Robust and Generalizable Features for Long-term Localization**\
 ![Xieyuanli Chen](/images/Xieyuanli_Chen.jpg)\
 [Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
 National University of Defense Technology, China
 
-**Title: Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features**\
 ![Ayoung Kim](/images/Ayoung_Kim.jpg)\
 [Ayoung Kim](https://rpm.snu.ac.kr/)\
 Seoul National University, South Korea
 
-**Title: Learning Robust Robot Perception in Unknown Environments**\
 ![Marija Popović](/images/Marija_Popovic.jpg)\
 [Marija Popović](https://research.tudelft.nl/en/persons/m-popovic)\
 Delft University of Technology, Netherlands
 
-**Title: Multi-robot Mapping in Maritime Environments**\
 ![Teresa Vidal Calleja](/images/Teresa_Vidal_Calleja.jpg)\
 [Teresa Vidal Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja)\
 University of Technology Sydney, Australia
 
-**Title: Tough Physical AI for Task Automation in Harsh Environments**\
 ![Kazunori Ohno](/images/Kazunori_Ohno.jpg)\
 [Kazunori Ohno](https://www.r-info.tohoku.ac.jp/en/1dbca76142c072cb4a4403b1c317eb26.html)\
 Tohoku University, Japan
