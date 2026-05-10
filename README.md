@@ -238,6 +238,8 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 </details>
 
+<br>
+
 ## Speakers
 
 **Title: Everywhere and Everywhen: Progress on Long-Term Localization with Radar**\
