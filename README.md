@@ -62,8 +62,8 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 09:00 - 09:30 | Timothy Barfoot       | Invited Talk #1 + Q&A                        |
 | 09:30 - 10:00 | Xieyuanli Chen        | Invited Talk #2 + Q&A                        |
 | 10:00 - 10:20 | 5 papers              | Lightning Talks (3 min/pers)                 |
-| 10:20 - 10:25 | ATEC (sponsor)        | Competition Promotion                        |
-| 10:25 - 11:00 | -                     | Coffee Break & Poster Session Setup          |
+| 10:20 - 10:30 | ATEC (sponsor)        | Competition Promotion                        |
+| 10:30 - 11:00 | -                     | Coffee Break & Poster Session Setup          |
 | 11:00 - 11:30 | Ayoung Kim            | Invited Talk #3 + Q&A                        |
 | 11:30 - 12:00 | Marija Popović        | Invited Talk #4 + Q&A                        |
 | 12:00 - 12:10 | TBD                   | Startup Presentation                         |
@@ -72,8 +72,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 14:30 - 15:00 | Kazunori Ohno         | Invited Talk #6 + Q&A                        |
 | 15:00 - 15:20 | 5 papers              | Lightning Talks (3 min/pers)                 |
 | 15:20 - 15:30 | TBD                   | Startup Presentation                         |
-| 15:30 - 16:00 | -                     | Coffee Break & Continued Poster Session      |
-| 16:00 - 16:30 | Jaime Pulido Fentanes | Invited Talk #7 + Q&A                        |
+| 15:30 - 16:30 | -                     | Coffee Break & Continued Poster Session      |
 | 16:30 - 17:00 | All speakers          | Interactive Panel Discussion                 |
 | 17:00 - 17:30 | Organizers            | Best Presentation Awards and Closing Remarks |
 
@@ -94,7 +93,8 @@ Tohoku University, Japan
 [Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
 National University of Defense Technology, China
 
-**Title: Seven Years in the Wild: Lessons from Agricultural Robots at Scale**\
+~~**Title: Seven Years in the Wild: Lessons from Agricultural Robots at Scale**~~\
+Update: Due to unforeseen circumstances, Jaime Pulido Fentanes will be unable to join us.\
 ![Jaime Pulido Fentanes](/images/Jaime_Pulido_Fentanes.jpg)\
 [Jaime Pulido Fentanes](https://scholar.google.es/citations?user=rTntw-wAAAAJ)\
 Saga Robotics, Norway
