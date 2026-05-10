@@ -85,20 +85,77 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 <br>
 
-| ID | Presentation | Paper Title |
-| :--- | :--- | :--- |
-| P01 | Lightning | When to Map? Adaptive Switching Between Localization and SLAM in Multi-Session Systems |
-| P02 | Lightning | Frequency-Preserved Logit Distillation for Long-term Robot Perception |
-| P03 | Lightning | Continual Online Backward-Compatible Learning for LiDAR Place Recognition in Adverse Weather |
-| P04 | Lightning | Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments |
-| P05 | Lightning | Edge Radar Material Classification Under Geometry Shifts |
-| P06 | Poster Only | In-context Adaptation of Place Recognition through Self-supervised Learning from Video |
-| P07 | Poster Only | Toward Embedded Vision-Language Perception for Long-Term Autonomous Robots via Training-Free Token Pruning |
-| P08 | Poster Only | GPU-Accelerated Semantic Embedded SLAM |
-| P09 | Poster Only | ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation |
-| P10 | Poster Only | Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation |
-| P11 | Poster Only | COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation |
-| P12 | Poster Only | Voxels: A Lightweight Simulation for Mobile Robotics |
+<table style="width:100%; text-align:left;">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Presentation</th>
+      <th>Paper Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P01</td>
+      <td>Lightning</td>
+      <td>When to Map? Adaptive Switching Between Localization and SLAM in Multi-Session Systems</td>
+    </tr>
+    <tr>
+      <td>P02</td>
+      <td>Lightning</td>
+      <td>Frequency-Preserved Logit Distillation for Long-term Robot Perception</td>
+    </tr>
+    <tr>
+      <td>P03</td>
+      <td>Lightning</td>
+      <td>Continual Online Backward-Compatible Learning for LiDAR Place Recognition in Adverse Weather</td>
+    </tr>
+    <tr>
+      <td>P04</td>
+      <td>Lightning</td>
+      <td>Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments</td>
+    </tr>
+    <tr>
+      <td>P05</td>
+      <td>Lightning</td>
+      <td>Edge Radar Material Classification Under Geometry Shifts</td>
+    </tr>
+    <tr>
+      <td>P06</td>
+      <td>Poster Only</td>
+      <td>In-context Adaptation of Place Recognition through Self-supervised Learning from Video</td>
+    </tr>
+    <tr>
+      <td>P07</td>
+      <td>Poster Only</td>
+      <td>Toward Embedded Vision-Language Perception for Long-Term Autonomous Robots via Training-Free Token Pruning</td>
+    </tr>
+    <tr>
+      <td>P08</td>
+      <td>Poster Only</td>
+      <td>GPU-Accelerated Semantic Embedded SLAM</td>
+    </tr>
+    <tr>
+      <td>P09</td>
+      <td>Poster Only</td>
+      <td>ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation</td>
+    </tr>
+    <tr>
+      <td>P10</td>
+      <td>Poster Only</td>
+      <td>Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</td>
+    </tr>
+    <tr>
+      <td>P11</td>
+      <td>Poster Only</td>
+      <td>COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation</td>
+    </tr>
+    <tr>
+      <td>P12</td>
+      <td>Poster Only</td>
+      <td>Voxels: A Lightweight Simulation for Mobile Robotics</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
@@ -107,20 +164,77 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 <br>
 
-| ID | Presentation | Paper Title |
-| :--- | :--- | :--- |
-| P13 | Lightning | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation |
-| P14 | Lightning | Adaptive Gaussian Process–Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels |
-| P15 | Lightning | Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation |
-| P16 | Lightning | VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain |
-| P17 | Lightning | Helhest: An Affordable and Resilient R&D Platform for Long-Term Autonomous Navigation in the Wild |
-| P18 | Poster Only | Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data |
-| P19 | Poster Only | An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack |
-| P20 | Poster Only | Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment |
-| P21 | Poster Only | State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain |
-| P22 | Poster Only | Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments |
-| P23 | Poster Only | Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments |
-| P24 | Poster Only | Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller |
+<table style="width:100%; text-align:left;">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Presentation</th>
+      <th>Paper Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P13</td>
+      <td>Lightning</td>
+      <td>Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation</td>
+    </tr>
+    <tr>
+      <td>P14</td>
+      <td>Lightning</td>
+      <td>Adaptive Gaussian Process–Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels</td>
+    </tr>
+    <tr>
+      <td>P15</td>
+      <td>Lightning</td>
+      <td>Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation</td>
+    </tr>
+    <tr>
+      <td>P16</td>
+      <td>Lightning</td>
+      <td>VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain</td>
+    </tr>
+    <tr>
+      <td>P17</td>
+      <td>Lightning</td>
+      <td>Helhest: An Affordable and Resilient R&D Platform for Long-Term Autonomous Navigation in the Wild</td>
+    </tr>
+    <tr>
+      <td>P18</td>
+      <td>Poster Only</td>
+      <td>Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data</td>
+    </tr>
+    <tr>
+      <td>P19</td>
+      <td>Poster Only</td>
+      <td>An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack</td>
+    </tr>
+    <tr>
+      <td>P20</td>
+      <td>Poster Only</td>
+      <td>Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment</td>
+    </tr>
+    <tr>
+      <td>P21</td>
+      <td>Poster Only</td>
+      <td>State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain</td>
+    </tr>
+    <tr>
+      <td>P22</td>
+      <td>Poster Only</td>
+      <td>Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments</td>
+    </tr>
+    <tr>
+      <td>P23</td>
+      <td>Poster Only</td>
+      <td>Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</td>
+    </tr>
+    <tr>
+      <td>P24</td>
+      <td>Poster Only</td>
+      <td>Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
