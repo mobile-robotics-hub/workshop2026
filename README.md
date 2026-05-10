@@ -58,25 +58,93 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 
 | **Time** | **Speaker** | **Topic / Title** |
 | -------- | ----------- | ----------------- |
-| 08:50 - 09:00 | Organizers            | Welcome and Workshop Overview                |
-| 09:00 - 09:30 | Timothy Barfoot       | Invited Talk #1 + Q&A                        |
-| 09:30 - 10:00 | Xieyuanli Chen        | Invited Talk #2 + Q&A                        |
-| 10:00 - 10:20 | 5 papers              | Lightning Talks (3 min/pers)                 |
-| 10:20 - 10:30 | ATEC (sponsor)        | Competition Promotion                        |
-| 10:30 - 11:00 | -                     | Coffee Break & Poster Session Setup          |
-| 11:00 - 11:30 | Ayoung Kim            | Invited Talk #3 + Q&A                        |
-| 11:30 - 12:00 | Marija Popović        | Invited Talk #4 + Q&A                        |
-| 12:00 - 12:10 | TBD                   | Startup Presentation                         |
-| 12:10 - 14:00 | -                     | Lunch Break & Continued Poster Session       |
-| 14:00 - 14:30 | Teresa Vidal Calleja  | Invited Talk #5 + Q&A                        |
-| 14:30 - 15:00 | Kazunori Ohno         | Invited Talk #6 + Q&A                        |
-| 15:00 - 15:20 | 5 papers              | Lightning Talks (3 min/pers)                 |
-| 15:20 - 15:30 | TBD                   | Startup Presentation                         |
-| 15:30 - 16:30 | -                     | Coffee Break & Continued Poster Session      |
-| 16:30 - 17:00 | All speakers          | Interactive Panel Discussion                 |
-| 17:00 - 17:30 | Organizers            | Best Presentation Awards and Closing Remarks |
+| 08:50 - 09:00 | Organizers              | Welcome and Workshop Overview                |
+| 09:00 - 09:30 | Timothy Barfoot         | Invited Talk #1 + Q&A                        |
+| 09:30 - 10:00 | Xieyuanli Chen          | Invited Talk #2 + Q&A                        |
+| 10:00 - 10:20 | [5 papers](#foundation) | Lightning Talks (3 min/pers)                 |
+| 10:20 - 10:30 | ATEC (sponsor)          | Competition Promotion                        |
+| 10:30 - 11:00 | -                       | Coffee Break & Poster Session A (Setup)      |
+| 11:00 - 11:30 | Ayoung Kim              | Invited Talk #3 + Q&A                        |
+| 11:30 - 12:00 | Marija Popović          | Invited Talk #4 + Q&A                        |
+| 12:00 - 12:10 | TBD                     | Startup Presentation                         |
+| 12:10 - 14:00 | -                       | Lunch Break & Poster Session A (Continued)   |
+| 14:00 - 14:30 | Teresa Vidal Calleja    | Invited Talk #5 + Q&A                        |
+| 14:30 - 15:00 | Kazunori Ohno           | Invited Talk #6 + Q&A                        |
+| 15:00 - 15:20 | [5 papers](#deployment) | Lightning Talks (3 min/pers)                 |
+| 15:20 - 15:30 | TBD                     | Startup Presentation                         |
+| 15:30 - 16:30 | -                       | Coffee Break & Poster Session B              |
+| 16:30 - 17:00 | All speakers            | Interactive Panel Discussion                 |
+| 17:00 - 17:30 | Organizers              | Best Presentation Awards and Closing Remarks |
+
+## Lightning Talks and Poster Sessions Details
+
+> **Note to Presenters:** All Lightning Talk papers are also required to present a physical poster during their assigned slot.
+
+<details>
+<summary id="foundation"><b>📂 Click to expand Session A (10:30-11:00 & 12:10-14:00)</b></summary>
+
+<br>
+
+| ID | Presentation | Paper Title |
+| :--- | :--- | :--- |
+| P01 | Lightning | When to Map? Adaptive Switching Between Localization and SLAM in Multi-Session Systems |
+| P02 | Lightning | Frequency-Preserved Logit Distillation for Long-term Robot Perception |
+| P03 | Lightning | Continual Online Backward-Compatible Learning for LiDAR Place Recognition in Adverse Weather |
+| P04 | Lightning | Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments |
+| P05 | Lightning | Edge Radar Material Classification Under Geometry Shifts |
+| P06 | Poster Only | In-context Adaptation of Place Recognition through Self-supervised Learning from Video |
+| P07 | Poster Only | Toward Embedded Vision-Language Perception for Long-Term Autonomous Robots via Training-Free Token Pruning |
+| P08 | Poster Only | GPU-Accelerated Semantic Embedded SLAM |
+| P09 | Poster Only | ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation |
+| P10 | Poster Only | Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation |
+| P11 | Poster Only | COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation |
+| P12 | Poster Only | Voxels: A Lightweight Simulation for Mobile Robotics |
+
+</details>
+
+<details>
+<summary id="deployment"><b>📂 Click to expand Session B (15:30-16:30)</b></summary>
+
+<br>
+
+| ID | Presentation | Paper Title |
+| :--- | :--- | :--- |
+| P13 | Lightning | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation |
+| P14 | Lightning | Adaptive Gaussian Process–Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels |
+| P15 | Lightning | Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation |
+| P16 | Lightning | VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain |
+| P17 | Lightning | Helhest: An Affordable and Resilient R&D Platform for Long-Term Autonomous Navigation in the Wild |
+| P18 | Poster Only | Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data |
+| P19 | Poster Only | An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack |
+| P20 | Poster Only | Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment |
+| P21 | Poster Only | State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain |
+| P22 | Poster Only | Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments |
+| P23 | Poster Only | Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments |
+| P24 | Poster Only | Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller |
+
+</details>
 
 ## Speakers
+
+**Title: Everywhere and Everywhen: Progress on Long-Term Localization with Radar**\
+![Timothy Barfoot](/images/Timothy_D_Barfoot.jpg)\
+[Timothy Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
+University of Toronto, Canada
+
+**Title: Learning Robust and Generalizable Features for Long-term Localization**\
+![Xieyuanli Chen](/images/Xieyuanli_Chen.jpg)\
+[Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
+National University of Defense Technology, China
+
+**Title: Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features**\
+![Ayoung Kim](/images/Ayoung_Kim.jpg)\
+[Ayoung Kim](https://rpm.snu.ac.kr/)\
+Seoul National University, South Korea
+
+**Title: Learning Robust Robot Perception in Unknown Environments**\
+![Marija Popović](/images/Marija_Popovic.jpg)\
+[Marija Popović](https://research.tudelft.nl/en/persons/m-popovic)\
+Delft University of Technology, Netherlands
 
 **Title: Multi-robot Mapping in Maritime Environments**\
 ![Teresa Vidal Calleja](/images/Teresa_Vidal_Calleja.jpg)\
@@ -88,31 +156,11 @@ University of Technology Sydney, Australia
 [Kazunori Ohno](https://www.r-info.tohoku.ac.jp/en/1dbca76142c072cb4a4403b1c317eb26.html)\
 Tohoku University, Japan
 
-**Title: Learning Robust and Generalizable Features for Long-term Localization**\
-![Xieyuanli Chen](/images/Xieyuanli_Chen.jpg)\
-[Xieyuanli Chen](https://chen-xieyuanli.github.io/)\
-National University of Defense Technology, China
-
 ~~**Title: Seven Years in the Wild: Lessons from Agricultural Robots at Scale**~~\
 Update: Due to unforeseen circumstances, Jaime Pulido Fentanes will be unable to join us.\
 ![Jaime Pulido Fentanes](/images/Jaime_Pulido_Fentanes.jpg)\
 [Jaime Pulido Fentanes](https://scholar.google.es/citations?user=rTntw-wAAAAJ)\
 Saga Robotics, Norway
-
-**Title: Everywhere and Everywhen: Progress on Long-Term Localization with Radar**\
-![Timothy Barfoot](/images/Timothy_D_Barfoot.jpg)\
-[Timothy Barfoot](http://asrl.utias.utoronto.ca/~tdb/)\
-University of Toronto, Canada
-
-**Title: Learning Robust Robot Perception in Unknown Environments**\
-![Marija Popović](/images/Marija_Popovic.jpg)\
-[Marija Popović](https://research.tudelft.nl/en/persons/m-popovic)\
-Delft University of Technology, Netherlands
-
-**Title: Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features**\
-![Ayoung Kim](/images/Ayoung_Kim.jpg)\
-[Ayoung Kim](https://rpm.snu.ac.kr/)\
-Seoul National University, South Korea
 
 ## Organizers
 
