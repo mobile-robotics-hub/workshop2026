@@ -71,7 +71,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 14:00 - 14:30 | Teresa Vidal Calleja     | Multi-robot Mapping in Maritime Environments |
 | 14:30 - 15:00 | Kazunori Ohno            | Tough Physical AI for Task Automation in Harsh Environments |
 | 15:00 - 15:20 | [5 papers](#deployment)  | Lightning Talks (3 min/pers)                 |
-| 15:20 - 15:30 | ATEC (sponsor)           | [Competition Promotion](sponsors/ATEC2026_poster.jpg) |
+| 15:20 - 15:30 | [ATEC (sponsor)](https://www.atecup.com/competitions/atec2026) | [Competition Promotion](sponsors/ATEC2026_poster.jpg) |
 | 15:30 - 16:30 | [12 papers](#deployment) | Coffee Break & Poster Session B              |
 | 16:30 - 17:00 | All speakers             | Interactive Panel Discussion                 |
 | 17:00 - 17:30 | Organizers               | Best Presentation Awards and Closing Remarks |
@@ -317,10 +317,10 @@ Czech Technical University in Prague, Czech Republic
 
 ## Sponsors
 
-<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="57"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="57"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="38"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.innno.net/"><img src="images/logo_innno.png" height="38"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.innno.net/"><img src="images/logo_ATEC.png" height="38"></a>
+<a href="https://www.atecup.com/competitions/atec2026"><img src="images/logo_ATEC.png" height="38"></a>
 
 ## Contact
 
