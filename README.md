@@ -4,7 +4,7 @@
 This workshop will discuss core challenges and new solutions in **perception, learning and navigation** for autonomous robots operating over long terms in the wild, complex and unstructured environments.
 With robotics applications in the wild broadening from environmental monitoring and agriculture to autonomous driving and disaster relief, the requirement for long-term robust, adaptive, and intelligent systems becomes essential.
 This workshop will bring together researchers and practitioners to share new technologies in sensor processing, scene understanding, mapping, localization, and machine learning to address the unique demands of long-term operations in the wild, including varying terrain, adverse weather, dynamic lighting conditions, and seasonal changes.
-Our goal is to foster collaboration and move toward new frontiers in robust multimodal perception, self-supervised learning, online / continual / lifelong learning, simulation-to-reality transfer, and explainable AI to enable safe, reliable and long-term autonomous robots in the wild.
+Our goal is to foster collaboration and move toward new frontiers in robust multimodal perception, self-supervised learning, online/continual/lifelong learning, simulation-to-reality transfer, and explainable AI to enable safe, reliable and long-term autonomous robots in the wild.
 This workshop will feature presentations, papers, and interactive discussion by leading experts, highlighting recent developments and future research directions for enhanced long-term performance of robotic systems in the wild.
 
 ## Venue
@@ -62,7 +62,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 09:00 - 09:30 | Timothy Barfoot          | Everywhere and Everywhen: Progress on Long-Term Localization with Radar |
 | 09:30 - 10:00 | Xieyuanli Chen           | Learning Robust and Generalizable Features for Long-term Localization |
 | 10:00 - 10:20 | [5 papers](#foundation)  | Lightning Talks (3 min/pers)                 |
-| 10:20 - 10:30 | ATEC (sponsor)           | Competition Promotion                        |
+| 10:20 - 10:30 | TBD                      | Startup Presentation                         |
 | 10:30 - 11:00 | [12 papers](#foundation) | Coffee Break & Poster Session A (Setup)      |
 | 11:00 - 11:30 | Ayoung Kim               | Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features |
 | 11:30 - 12:00 | Marija Popović           | Learning Robust Robot Perception in Unknown Environments |
@@ -71,7 +71,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 14:00 - 14:30 | Teresa Vidal Calleja     | Multi-robot Mapping in Maritime Environments |
 | 14:30 - 15:00 | Kazunori Ohno            | Tough Physical AI for Task Automation in Harsh Environments |
 | 15:00 - 15:20 | [5 papers](#deployment)  | Lightning Talks (3 min/pers)                 |
-| 15:20 - 15:30 | TBD                      | Startup Presentation                         |
+| 15:20 - 15:30 | ATEC (sponsor)           | [Competition Promotion](sponsors/ATEC2026_poster.jpg) |
 | 15:30 - 16:30 | [12 papers](#deployment) | Coffee Break & Poster Session B              |
 | 16:30 - 17:00 | All speakers             | Interactive Panel Discussion                 |
 | 17:00 - 17:30 | Organizers               | Best Presentation Awards and Closing Remarks |
@@ -319,7 +319,8 @@ Czech Technical University in Prague, Czech Republic
 
 <a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="57"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="57"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="38"></a>
+<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.innno.net/"><img src="images/logo_ATEC.png" height="38"></a>
 
 ## Contact
 
