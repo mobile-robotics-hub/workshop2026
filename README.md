@@ -319,8 +319,8 @@ Czech Technical University in Prague, Czech Republic
 
 <a href="https://www.nokov.com/"><img src="images/logo_nokov.png" height="38"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.tianbot.com/"><img src="images/logo_tianbot.png" height="38"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="38"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.atecup.com/competitions/atec2026"><img src="images/logo_ATEC.png" height="38"></a>
+<a href="https://www.atecup.com/competitions/atec2026"><img src="images/logo_ATEC.png" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.innno.net/"><img src="images/logo_innno.png" height="38"></a>
 
 ## Contact
 
