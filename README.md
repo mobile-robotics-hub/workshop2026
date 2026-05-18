@@ -62,11 +62,11 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 09:00 - 09:30 | [Timothy Barfoot](http://asrl.utias.utoronto.ca/~tdb/) | Everywhere and Everywhen: Progress on Long-Term Localization with Radar |
 | 09:30 - 10:00 | [Xieyuanli Chen](https://chen-xieyuanli.github.io/) | Learning Robust and Generalizable Features for Long-term Localization |
 | 10:00 - 10:20 | [5 papers](#foundation) | Lightning Talks (3 min/pers) |
-| 10:20 - 10:30 | [RideScan](https://ridescan.ai/) | Startup Presentation |
+| 10:20 - 10:30 | [RideScan](https://ridescan.ai/) | Startup Presentation (supported by IEEE RAS TABxStartups) |
 | 10:30 - 11:00 | [12 papers](#foundation) | Coffee Break (provided by ICRA) & Poster Session A (setup) |
 | 11:00 - 11:30 | [Ayoung Kim](https://rpm.snu.ac.kr/) | Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features |
 | 11:30 - 12:00 | [Marija Popović](https://research.tudelft.nl/en/persons/m-popovic) | Learning Robust Robot Perception in Unknown Environments |
-| 12:00 - 12:10 | [Raise Robotics](https://raiserobotics.ai/) | Startup Presentation |
+| 12:00 - 12:10 | [Raise Robotics](https://raiserobotics.ai/) | Startup Presentation (supported by IEEE RAS TABxStartups) |
 | 12:10 - 14:00 | - | Lunch Break (not provided) & Poster Session A (continued) |
 | 14:00 - 14:30 | [Teresa Vidal Calleja](https://profiles.uts.edu.au/Teresa.VidalCalleja) | Multi-robot Mapping in Maritime Environments |
 | 14:30 - 15:00 | [Kazunori Ohno](https://www.r-info.tohoku.ac.jp/en/1dbca76142c072cb4a4403b1c317eb26.html) | Tough Physical AI for Task Automation in Harsh Environments |
