@@ -142,7 +142,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P10</td>
       <td>Poster Only</td>
-      <td>Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</td>
+      <td>Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</td>
     </tr>
     <tr>
       <td>P11</td>
@@ -226,7 +226,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P23</td>
       <td>Poster Only</td>
-      <td>Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</td>
+      <td>Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</td>
     </tr>
     <tr>
       <td>P24</td>
