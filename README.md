@@ -97,37 +97,37 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P01</td>
       <td>Lightning</td>
-      <td>When to Map? Adaptive Switching Between Localization and SLAM in Multi-Session Systems</td>
+      <td><a href="papers/LoWi2026_P01.pdf">When to Map? Adaptive Switching Between Localization and SLAM in Multi-Session Systems</a></td>
     </tr>
     <tr>
       <td>P02</td>
       <td>Lightning</td>
-      <td>ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation</td>
+      <td><a href="papers/LoWi2026_P02.pdf">ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation</a></td>
     </tr>
     <tr>
       <td>P03</td>
       <td>Lightning</td>
-      <td>Continual Online Backward-Compatible Learning for LiDAR Place Recognition in Adverse Weather</td>
+      <td><a href="papers/LoWi2026_P03.pdf">Continual Online Backward-Compatible Learning for LiDAR Place Recognition in Adverse Weather</a></td>
     </tr>
     <tr>
       <td>P04</td>
       <td>Lightning</td>
-      <td>Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments</td>
+      <td><a href="papers/LoWi2026_P04.pdf">Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments</a></td>
     </tr>
     <tr>
       <td>P05</td>
       <td>Lightning</td>
-      <td>Edge Radar Material Classification Under Geometry Shifts</td>
+      <td><a href="papers/LoWi2026_P05.pdf">Edge Radar Material Classification Under Geometry Shifts</a></td>
     </tr>
     <tr>
       <td>P06</td>
       <td>Poster Only</td>
-      <td>In-context Adaptation of Place Recognition through Self-supervised Learning from Video</td>
+      <td><a href="papers/LoWi2026_P06.pdf">In-context Adaptation of Place Recognition through Self-supervised Learning from Video</a></td>
     </tr>
     <tr>
       <td>P07</td>
       <td>Poster Only</td>
-      <td>Toward Embedded Vision-Language Perception for Long-Term Autonomous Robots via Training-Free Token Pruning</td>
+      <td><a href="papers/LoWi2026_P07.pdf">Toward Embedded Vision-Language Perception for Long-Term Autonomous Robots via Training-Free Token Pruning</a></td>
     </tr>
     <tr>
       <td>P08</td>
@@ -147,7 +147,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P11</td>
       <td>Poster Only</td>
-      <td>Voxels: A Lightweight Simulation for Mobile Robotics</td>
+      <td><a href="papers/LoWi2026_P11.pdf">Voxels: A Lightweight Simulation for Mobile Robotics</a></td>
     </tr>
   </tbody>
 </table>
@@ -171,62 +171,62 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P12</td>
       <td>Lightning</td>
-      <td>Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation</td>
+      <td><a href="papers/LoWi2026_P12.pdf">Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation</a></td>
     </tr>
     <tr>
       <td>P13</td>
       <td>Lightning</td>
-      <td>Adaptive Gaussian Process–Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels</td>
+      <td><a href="papers/LoWi2026_P13.pdf">Adaptive Gaussian Process–Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels</a></td>
     </tr>
     <tr>
       <td>P14</td>
       <td>Lightning</td>
-      <td>Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation</td>
+      <td><a href="papers/LoWi2026_P14.pdf">Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation</a></td>
     </tr>
     <tr>
       <td>P15</td>
       <td>Lightning</td>
-      <td>VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain</td>
+      <td><a href="papers/LoWi2026_P15.pdf">VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain</a></td>
     </tr>
     <tr>
       <td>P16</td>
       <td>Lightning</td>
-      <td>Helhest: An Affordable and Resilient R&D Platform for Long-Term Autonomous Navigation in the Wild</td>
+      <td><a href="papers/LoWi2026_P16.pdf">Helhest: An Affordable and Resilient R&D Platform for Long-Term Autonomous Navigation in the Wild</a></td>
     </tr>
     <tr>
       <td>P17</td>
       <td>Poster Only</td>
-      <td>Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data</td>
+      <td><a href="papers/LoWi2026_P17.pdf">Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data</a></td>
     </tr>
     <tr>
       <td>P18</td>
       <td>Poster Only</td>
-      <td>An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack</td>
+      <td><a href="papers/LoWi2026_P18.pdf">An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack</a></td>
     </tr>
     <tr>
       <td>P19</td>
       <td>Poster Only</td>
-      <td>Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment</td>
+      <td><a href="papers/LoWi2026_P19.pdf">Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment</a></td>
     </tr>
     <tr>
       <td>P20</td>
       <td>Poster Only</td>
-      <td>State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain</td>
+      <td><a href="papers/LoWi2026_P20.pdf">State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain</a></td>
     </tr>
     <tr>
       <td>P21</td>
       <td>Poster Only</td>
-      <td>Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments</td>
+      <td><a href="papers/LoWi2026_P21.pdf">Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments</a></td>
     </tr>
     <tr>
       <td>P22</td>
       <td>Poster Only</td>
-      <td>Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</td>
+      <td><a href="papers/LoWi2026_P22.pdf">Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</a></td>
     </tr>
     <tr>
       <td>P23</td>
       <td>Poster Only</td>
-      <td>Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller</td>
+      <td><a href="papers/LoWi2026_P23.pdf">Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller</a></td>
     </tr>
   </tbody>
 </table>
