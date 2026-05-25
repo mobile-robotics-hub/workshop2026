@@ -169,62 +169,62 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
   </thead>
   <tbody>
     <tr>
-      <td>P13</td>
+      <td>P12</td>
       <td>Lightning</td>
       <td>Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation</td>
     </tr>
     <tr>
-      <td>P14</td>
+      <td>P13</td>
       <td>Lightning</td>
       <td>Adaptive Gaussian Process–Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels</td>
     </tr>
     <tr>
-      <td>P15</td>
+      <td>P14</td>
       <td>Lightning</td>
       <td>Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation</td>
     </tr>
     <tr>
-      <td>P16</td>
+      <td>P15</td>
       <td>Lightning</td>
       <td>VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain</td>
     </tr>
     <tr>
-      <td>P17</td>
+      <td>P16</td>
       <td>Lightning</td>
       <td>Helhest: An Affordable and Resilient R&D Platform for Long-Term Autonomous Navigation in the Wild</td>
     </tr>
     <tr>
-      <td>P18</td>
+      <td>P17</td>
       <td>Poster Only</td>
       <td>Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data</td>
     </tr>
     <tr>
-      <td>P19</td>
+      <td>P18</td>
       <td>Poster Only</td>
       <td>An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack</td>
     </tr>
     <tr>
-      <td>P20</td>
+      <td>P19</td>
       <td>Poster Only</td>
       <td>Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment</td>
     </tr>
     <tr>
-      <td>P21</td>
+      <td>P20</td>
       <td>Poster Only</td>
       <td>State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain</td>
     </tr>
     <tr>
-      <td>P22</td>
+      <td>P21</td>
       <td>Poster Only</td>
       <td>Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments</td>
     </tr>
     <tr>
-      <td>P23</td>
+      <td>P22</td>
       <td>Poster Only</td>
       <td>Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</td>
     </tr>
     <tr>
-      <td>P24</td>
+      <td>P23</td>
       <td>Poster Only</td>
       <td>Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller</td>
     </tr>
