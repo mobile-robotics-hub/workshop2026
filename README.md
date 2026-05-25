@@ -63,7 +63,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
 | 09:30 - 10:00 | [Xieyuanli Chen](https://chen-xieyuanli.github.io/) | **Learning Robust and Generalizable Features for Long-term Localization** |
 | 10:00 - 10:20 | [5 papers](#foundation) | Lightning Talks (3 min/pers) |
 | 10:20 - 10:30 | [RideScan](https://ridescan.ai/) | Startup Presentation (supported by IEEE RAS TABxStartups) |
-| 10:30 - 11:00 | [12 papers](#foundation) | Coffee Break (provided by ICRA) & Poster Session A (setup) |
+| 10:30 - 11:00 | [11 papers](#foundation) | Coffee Break (provided by ICRA) & Poster Session A (setup) |
 | 11:00 - 11:30 | [Ayoung Kim](https://rpm.snu.ac.kr/) | **Long-Term LiDAR Localization in the Wild: From Foundation Models to Ultra-Lightweight Features** |
 | 11:30 - 12:00 | [Marija Popović](https://research.tudelft.nl/en/persons/m-popovic) | **Learning Robust Robot Perception in Unknown Environments** |
 | 12:00 - 12:10 | [Raise Robotics](https://raiserobotics.ai/) | Startup Presentation (supported by IEEE RAS TABxStartups) |
@@ -102,7 +102,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P02</td>
       <td>Lightning</td>
-      <td>Frequency-Preserved Logit Distillation for Long-term Robot Perception</td>
+      <td>ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation</td>
     </tr>
     <tr>
       <td>P03</td>
@@ -137,20 +137,15 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P09</td>
       <td>Poster Only</td>
-      <td>ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation</td>
+      <td>Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</td>
     </tr>
     <tr>
       <td>P10</td>
       <td>Poster Only</td>
-      <td>Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</td>
-    </tr>
-    <tr>
-      <td>P11</td>
-      <td>Poster Only</td>
       <td>COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation</td>
     </tr>
     <tr>
-      <td>P12</td>
+      <td>P11</td>
       <td>Poster Only</td>
       <td>Voxels: A Lightweight Simulation for Mobile Robotics</td>
     </tr>
