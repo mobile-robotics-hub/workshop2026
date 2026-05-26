@@ -9,7 +9,7 @@ This workshop will feature presentations, papers, and interactive discussion by 
 
 ## Venue
 
-VIECON (formerly Messe Wien), Vienna, Austria.
+**Room Strauss 2**, VIECON (formerly Messe Wien), Vienna, Austria.
 
 ## Call for Papers
 
