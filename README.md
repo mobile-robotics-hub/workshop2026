@@ -142,7 +142,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P10</td>
       <td>Poster Only</td>
-      <td>COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation</td>
+      <td><a href="papers/LoWi2026_P10.pdf">COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation</a></td>
     </tr>
     <tr>
       <td>P11</td>
