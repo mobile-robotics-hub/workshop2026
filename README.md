@@ -132,7 +132,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P08</td>
       <td>Poster Only</td>
-      <td>GPU-Accelerated Semantic Embedded SLAM</td>
+      <td><a href="papers/LoWi2026_P08.pdf">GPU-Accelerated Semantic Embedded SLAM</a></td>
     </tr>
     <tr>
       <td>P09</td>
