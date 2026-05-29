@@ -137,7 +137,7 @@ Thanks to the generous support of our sponsors, we are pleased to announce the f
     <tr>
       <td>P09</td>
       <td>Poster Only</td>
-      <td>Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</td>
+      <td><a href="papers/LoWi2026_P09.pdf">Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments</a></td>
     </tr>
     <tr>
       <td>P10</td>
