@@ -9,7 +9,7 @@ The LoWi 2026 workshop was successfully held on June 1, 2026, in Vienna, Austria
 
 We are thrilled to announce the recipients of the LoWi 2026 Awards, sponsored generously by our sponsors. Each award comes with an official certificate and a cash prize.
 
-<p align="center"><img src="images/Best_Presentation_Award.jpg" height="300">&nbsp;&nbsp;&nbsp;<img src="images/Best_Student_Presentation_Award.jpg" height="300"></p>
+<p align="center"><img src="images/Best_Presentation_Award.jpg" height="260">&nbsp;&nbsp;&nbsp;<img src="images/Best_Student_Presentation_Award.jpg" height="260"></p>
 
 ### &#127941; Best Presentation Award, sponsored by NOKOV
 
