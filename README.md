@@ -1,6 +1,32 @@
 #### Perception, Learning, and Navigation
 <p align="center"><img src="images/logo_LoWi_1.png" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Barakuda.png" height="220"></p>
 
+## &#127881; LoWi 2026 Concluded Successfully!
+
+The LoWi 2026 workshop was successfully held on June 1, 2026, in Vienna, Austria! We would like to express our deepest gratitude to all of our incredible keynote speakers, authors, poster presenters, sponsors, and the 100+ attendees who joined us to discuss the future of long-term robot autonomy in the wild.
+
+## &#127942; Award Winners
+
+We are thrilled to announce the recipients of the LoWi 2026 Awards, sponsored generously by our sponsors. Each award comes with an official certificate and a cash prize.
+
+<p align="center"><img src="images/Best_Presentation_Award.jpg" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Best_Student_Presentation_Award.jpg" height="220"></p>
+
+### &#127941; Best Presentation Award, sponsored by NOKOV
+
+* Paper Title: [Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation](papers/LoWi2026_P12.pdf)
+* Authors: Lukas Wimmer, Andre Koczka, and Gerald Steinbauer-Wagner
+* Affiliation: Graz University of Technology, Graz, Austria
+* Prize: $300 Cash Prize & Certificate
+
+### &#127941; Best Student Presentation Award, sponsored by TIANBOT and INNNO
+
+* Paper Title: [VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain](papers/LoWi2026_P15.pdf)
+* Authors: Mohammad Nazeri, Anuj Pokhrel, Alexandyr Card, Aniket Datar, Garrett Warnell, and Xuesu Xiao
+* Affiliation: George Mason University, Virginia, United States
+* Prize: $300 Cash Prize & Certificate
+
+## Overview
+
 This workshop will discuss core challenges and new solutions in **perception, learning and navigation** for autonomous robots operating over long terms in the wild, complex and unstructured environments.
 With robotics applications in the wild broadening from environmental monitoring and agriculture to autonomous driving and disaster relief, the requirement for long-term robust, adaptive, and intelligent systems becomes essential.
 This workshop will bring together researchers and practitioners to share new technologies in sensor processing, scene understanding, mapping, localization, and machine learning to address the unique demands of long-term operations in the wild, including varying terrain, adverse weather, dynamic lighting conditions, and seasonal changes.
