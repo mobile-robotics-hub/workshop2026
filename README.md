@@ -1,3 +1,5 @@
+<h2>Perception, Learning, and Navigation</h2>
+
 <p align="center"><img src="images/logo_LoWi_1.png" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Barakuda.png" height="220"></p>
 
 ## &#127881; LoWi 2026 Concluded Successfully!
