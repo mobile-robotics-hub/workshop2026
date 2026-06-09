@@ -1,4 +1,5 @@
-#### Perception, Learning, and Navigation
+## Perception, Learning, and Navigation
+
 <p align="center"><img src="images/logo_LoWi_1.png" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Barakuda.png" height="220"></p>
 
 ## &#127881; LoWi 2026 Concluded Successfully!
@@ -11,14 +12,14 @@ We are thrilled to announce the recipients of the LoWi 2026 Awards, sponsored ge
 
 <p align="center"><img src="images/Best_Presentation_Award.jpg" height="260">&nbsp;&nbsp;&nbsp;<img src="images/Best_Student_Presentation_Award.jpg" height="260"></p>
 
-### &#127941; Best Presentation Award, sponsored by NOKOV
+### &#127941; Best Presentation Award, *sponsored by NOKOV*
 
 * Paper Title: [Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation](papers/LoWi2026_P12.pdf)
 * Authors: Lukas Wimmer, Andre Koczka, and Gerald Steinbauer-Wagner
 * Affiliation: Graz University of Technology, Graz, Austria
 * Prize: $300 Cash Prize & Certificate
 
-### &#127941; Best Student Presentation Award, sponsored by TIANBOT and INNNO
+### &#127941; Best Student Presentation Award, *sponsored by TIANBOT and INNNO*
 
 * Paper Title: [VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain](papers/LoWi2026_P15.pdf)
 * Authors: Mohammad Nazeri, Anuj Pokhrel, Alexandyr Card, Aniket Datar, Garrett Warnell, and Xuesu Xiao
