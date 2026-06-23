@@ -2,7 +2,7 @@
 
 <p align="center"><img src="images/logo_LoWi_1.png" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Barakuda.png" height="220"></p>
 
-## LoWi 2026 BibTeX Entries Are Here!
+## &#128214; LoWi 2026 BibTeX Entries Are Here!
 
 <details>
 <summary id="lowi_bibtex"><b>📂 Click to expand LoWi 2026 BibTeX entries</b></summary>
@@ -20,7 +20,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P01.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P01.pdf}
 }
 
 @inproceedings{lowi2026_p02,
@@ -29,7 +29,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P02.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P02.pdf}
 }
 
 @inproceedings{lowi2026_p03,
@@ -38,7 +38,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P03.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P03.pdf}
 }
 
 @inproceedings{lowi2026_p04,
@@ -47,7 +47,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P04.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P04.pdf}
 }
 
 @inproceedings{lowi2026_p05,
@@ -56,7 +56,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P05.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P05.pdf}
 }
 
 @inproceedings{lowi2026_p06,
@@ -65,7 +65,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P06.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P06.pdf}
 }
 
 @inproceedings{lowi2026_p07,
@@ -74,7 +74,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P07.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P07.pdf}
 }
 
 @inproceedings{lowi2026_p08,
@@ -83,7 +83,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P08.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P08.pdf}
 }
 
 @inproceedings{lowi2026_p09,
@@ -92,7 +92,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P09.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P09.pdf}
 }
 
 @inproceedings{lowi2026_p10,
@@ -101,7 +101,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P10.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P10.pdf}
 }
 
 @inproceedings{lowi2026_p11,
@@ -110,7 +110,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P11.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P11.pdf}
 }
 
 % =============================================================================
@@ -123,7 +123,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P12.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P12.pdf}
 }
 
 @inproceedings{lowi2026_p13,
@@ -132,7 +132,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P13.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P13.pdf}
 }
 
 @inproceedings{lowi2026_p14,
@@ -141,7 +141,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P14.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P14.pdf}
 }
 
 @inproceedings{lowi2026_p15,
@@ -150,7 +150,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P15.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P15.pdf}
 }
 
 @inproceedings{lowi2026_p16,
@@ -159,7 +159,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P16.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P16.pdf}
 }
 
 @inproceedings{lowi2026_p17,
@@ -168,7 +168,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P17.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P17.pdf}
 }
 
 @inproceedings{lowi2026_p18,
@@ -177,7 +177,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P18.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P18.pdf}
 }
 
 @inproceedings{lowi2026_p19,
@@ -186,7 +186,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P19.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P19.pdf}
 }
 
 @inproceedings{lowi2026_p20,
@@ -195,7 +195,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P20.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P20.pdf}
 }
 
 @inproceedings{lowi2026_p21,
@@ -204,7 +204,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P21.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P21.pdf}
 }
 
 @inproceedings{lowi2026_p22,
@@ -213,7 +213,7 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P22.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P22.pdf}
 }
 
 @inproceedings{lowi2026_p23,
@@ -222,10 +222,12 @@
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
   year      = {2026},
   note      = {Non-archival Workshop Paper},
-  url       = {papers/LoWi2026_P23.pdf}
+  url       = {https://mobile-robotics-hub.github.io/workshop2026/papers/LoWi2026_P23.pdf}
 }
 </code></pre>
 </details>
+
+<br>
 
 ## &#127881; LoWi 2026 Concluded Successfully!
 
