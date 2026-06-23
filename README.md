@@ -2,6 +2,231 @@
 
 <p align="center"><img src="images/logo_LoWi_1.png" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Barakuda.png" height="220"></p>
 
+## LoWi 2026 BibTeX Entries Are Here!
+
+<details>
+<summary id="lowi_bibtex"><b>📂 Click to expand LoWi 2026 BibTeX entries</b></summary>
+
+<br>
+
+<pre><code style="display: block; background: #f4f4f4; padding: 15px; border-left: 3px solid #007acc; font-family: monospace; overflow-x: auto; white-space: pre;">
+% =============================================================================
+% SESSION A (P01 - P11)
+% =============================================================================
+
+@inproceedings{lowi2026_p01,
+  author    = {Montano-Olivan, Lorenzo and Placed, Julio A. and Montano, Luis and Lázaro, María T.},
+  title     = {When to Map? Adaptive Switching Between Localization and SLAM in Multi-Session Systems},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P01.pdf}
+}
+
+@inproceedings{lowi2026_p02,
+  author    = {Perevozniuk, Yuliia and Rozsypálek, Zdeněk and Krajník, Tomáš},
+  title     = {ROS 2 Implementation of Appearance-based Visual Teach and Repeat Navigation},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P02.pdf}
+}
+
+@inproceedings{lowi2026_p03,
+  author    = {Liu, Binhong and Xu, Qiaoyu and Fang, Yangwang and Yan, Zhi and Yang, Tao},
+  title     = {Continual Online Backward-Compatible Learning for LiDAR Place Recognition in Adverse Weather},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P03.pdf}
+}
+
+@inproceedings{lowi2026_p04,
+  author    = {Soualhi, Takieddine and Saraydaryan, Jacques and Matignon, Laetitia},
+  title     = {Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P04.pdf}
+}
+
+@inproceedings{lowi2026_p05,
+  author    = {Hohmann, Jannik and Wang, Dong and Nüchter, Andreas},
+  title     = {Edge Radar Material Classification Under Geometry Shifts},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P05.pdf}
+}
+
+@inproceedings{lowi2026_p06,
+  author    = {Jamshidi, Kiavash and Şikaroğlu, Gülhan and Blum, Hermann},
+  title     = {In-context Adaptation of Place Recognition through Self-supervised Learning from Video},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P06.pdf}
+}
+
+@inproceedings{lowi2026_p07,
+  author    = {Apedo, Yvon and Poreba, Martyna and Szczepanski, Michal and Bouchafa, Samia},
+  title     = {Toward Embedded Vision-Language Perception for Long-Term Autonomous Robots via Training-Free Token Pruning},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P07.pdf}
+}
+
+@inproceedings{lowi2026_p08,
+  author    = {Galagain, Calvin and Poreba, Martyna and Goulette, François},
+  title     = {GPU-Accelerated Semantic Embedded SLAM},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P08.pdf}
+}
+
+@inproceedings{lowi2026_p09,
+  author    = {Ye, Kaixiao and Jiang, Ruoxin and Zhou, Bize and Shao, Weiyu Susu and Zheng, Yuhang and Yang, Tao},
+  title     = {Multi-view 6D Pose Estimation of the Aerial Docking Device for Long-Term Drone Operation in Dynamic Environments},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P09.pdf}
+}
+
+@inproceedings{lowi2026_p10,
+  author    = {Lavariega-Gomez, Jose and Irmiger, Nicola and Tevere, Erica and Spieler, Patrick},
+  title     = {COMPASS: Learning Global Spatial Context for Long-Range Robot Navigation},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P10.pdf}
+}
+
+@inproceedings{lowi2026_p11,
+  author    = {Simon, Maxim and Rozsypálek, Zdeněk and Krajník, Tomáš},
+  title     = {Voxels: A Lightweight Simulation for Mobile Robotics},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P11.pdf}
+}
+
+% =============================================================================
+% SESSION B (P12 - P23)
+% =============================================================================
+
+@inproceedings{lowi2026_p12,
+  author    = {Wimmer, Lukas and Koczka, Andre and Steinbauer-Wagner, Gerald},
+  title     = {Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P12.pdf}
+}
+
+@inproceedings{lowi2026_p13,
+  author    = {Staggers, Jr., Rodney and Desikan, Bharath Vedantha and Prashar, Kanav and Torre, Carlos and Das, Jnaneshwar},
+  title     = {Adaptive Gaussian Process--Based Sampling for Energy-Efficient Aquatic Sensing with Autonomous Surface Vessels},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P13.pdf}
+}
+
+@inproceedings{lowi2026_p14,
+  author    = {Maalla, Yazan and Barhoum, Zein Alabedeen and Popov, Maxim and Kolyubin, Sergey},
+  title     = {Disturbance-Aware Underwater Visual-Inertial Odometry via Learned Dynamics and External Force Estimation},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P14.pdf}
+}
+
+@inproceedings{lowi2026_p15,
+  author    = {Nazeri, Mohammad and Pokhrel, Anuj and Card, Alexandyr and Datar, Aniket and Warnell, Garrett and Xiao, Xuesu},
+  title     = {VERTIFORMER: A Data-Efficient Multi-Task Transformer on Vertically Challenging Terrain},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P15.pdf}
+}
+
+@inproceedings{lowi2026_p16,
+  author    = {Himmel, Bedřich and Herold, Adam and Pecka, Martin and Kučera, Aleš and Vlk, Jan and Svoboda, Tomáš and Zimmermann, Karel},
+  title     = {Helhest: An Affordable and Resilient R\&D Platform for Long-Term Autonomous Navigation in the Wild},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P16.pdf}
+}
+
+@inproceedings{lowi2026_p17,
+  author    = {Margaritis, Georgios Evangelos and Lapierre, Lionel and Rohou, Simon and Yan, Zhi and Nüchter, Andreas and Goulette, François},
+  title     = {Towards 3D Karst Underwater Scene Reconstruction from Rotating Sonar Data},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P17.pdf}
+}
+
+@inproceedings{lowi2026_p18,
+  author    = {Marsal, Rémi and Picard, Quentin and Poiré, Adrien and Kerbourc'h, Sébastien and Toralba, Thibault and Yver, Clément and Chapoutot, Alexandre and Filliat, David},
+  title     = {An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P18.pdf}
+}
+
+@inproceedings{lowi2026_p19,
+  author    = {Huang, Bennett and Pan, Jason},
+  title     = {Building a Robust, Autonomous Pest-Control Vehicle for Real-World Agricultural Deployment},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P19.pdf}
+}
+
+@inproceedings{lowi2026_p20,
+  author    = {Jadhav, Rushikesh and Singh, Aryan Kumar and Ganguly, Srinjoy and Prakash, Ravi and Kumar, Vivek},
+  title     = {State Corrected Predictive Preference Learning for Multimodal Robot Navigation on Uneven Terrain},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P20.pdf}
+}
+
+@inproceedings{lowi2026_p21,
+  author    = {Manas, Kumar},
+  title     = {Vision-Language Modeling for Natural-Language Wheel Loader Assistance in Unstructured Construction Environments},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P21.pdf}
+}
+
+@inproceedings{lowi2026_p22,
+  author    = {Zhang, Boyuan and Huang, Huanshan and Cao, Yifei},
+  title     = {Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P22.pdf}
+}
+
+@inproceedings{lowi2026_p23,
+  author    = {Castan, Ricard Marsal I and Pradalier, Cédric and Olivares-Mendez, Miguel},
+  title     = {Extending Operational Mission Lifetimes of Free-Flying Space Robots via Hypernetwork-Based Multi-Task GNC Controller},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA) Workshop (LoWi 2026)},
+  year      = {2026},
+  note      = {Non-archival Workshop Paper},
+  url       = {papers/LoWi2026_P23.pdf}
+}
+</code></pre>
+</details>
+
 ## &#127881; LoWi 2026 Concluded Successfully!
 
 The LoWi 2026 workshop was successfully held on June 1, 2026, in Vienna, Austria! We would like to express our deepest gratitude to all of our incredible keynote speakers, authors, poster presenters, sponsors, and the 100+ attendees who joined us to discuss the future of long-term robot autonomy in the wild.
