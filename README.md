@@ -2,6 +2,8 @@
 
 <p align="center"><img src="images/logo_LoWi_1.png" height="220">&nbsp;&nbsp;&nbsp;<img src="images/Barakuda.png" height="220"></p>
 
+<br>
+
 ## &#128214; LoWi 2026 BibTeX Entries Are Here!
 
 <details>
